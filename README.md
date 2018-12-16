@@ -1,5 +1,6 @@
 # RSA  
-RSA for Python implementation
+RSA for Python implementation.  
+Clone the file RSA.py
 
 # Environment
 Windows7 x64  
